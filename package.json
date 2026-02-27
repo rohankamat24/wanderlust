@@ -1,0 +1,25 @@
+{
+  "name": "wanderlust",
+  "version": "1.0.0",
+  "description": "-> npm init -y\r -> npm i express \r -> npm i ejs \r -> npm i mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohankamat24/wanderlust.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohankamat24/wanderlust/issues"
+  },
+  "homepage": "https://github.com/rohankamat24/wanderlust#readme",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.3"
+  }
+}
