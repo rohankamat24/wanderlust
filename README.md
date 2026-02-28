@@ -5,4 +5,4 @@
 -> npm i mongoose  
 -> npm install dotenv 
 -> npm i method-override
-
+-> npm i ejs-mate 
