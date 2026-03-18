@@ -14,3 +14,7 @@
 -> npm i ejs-mate 
 
 -> npm i joi
+
+-> npm i express-session
+
+-> npm i connect-flash
