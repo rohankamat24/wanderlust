@@ -18,3 +18,9 @@
 -> npm i express-session
 
 -> npm i connect-flash
+
+-> npm i dotenv
+
+-> npm i cloudinary@1.x
+
+-> npm i multer-storage-cloudinary
